@@ -1,2 +1,3 @@
 # TalkSocket
-NextJS, Express, Socket.io simple Chat App.
+
+NextJS & Socket.io simple Chat App.
