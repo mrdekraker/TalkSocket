@@ -1,6 +1,6 @@
 # TalkSocket
 
-NextJS & Socket.io simple Chat App.
+NextJS & Pusher simple Chat App.
 
 ## Features
 
@@ -23,6 +23,6 @@ NextJS & Socket.io simple Chat App.
 5. Seeing Friend Requests
 6. Accepting/Denying Friend Requests
 7. Chatting with database persistence (not real-time)
-8. Adding all real-time features
+8. Adding all real-time features - Pusher
 9. Adding route protection
 10. Adding loading states
